@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/starwars-planet-search/static/css/main.4d117d05.css",
+    "main.js": "/starwars-planet-search/static/js/main.9f510e68.js",
+    "static/media/starwars-logo2.png": "/starwars-planet-search/static/media/starwars-logo2.bd8cfbc2ec7180a8723d.png",
+    "static/media/mustafar-tall.jpg": "/starwars-planet-search/static/media/mustafar-tall.55eb2755e2866633b11c.jpg",
+    "index.html": "/starwars-planet-search/index.html",
+    "main.4d117d05.css.map": "/starwars-planet-search/static/css/main.4d117d05.css.map",
+    "main.9f510e68.js.map": "/starwars-planet-search/static/js/main.9f510e68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d117d05.css",
+    "static/js/main.9f510e68.js"
+  ]
+}
