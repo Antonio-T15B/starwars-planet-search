@@ -2,12 +2,10 @@
 <h2>Apresentação</h2>
 <img src="https://github.com/antonioclc/starwars-planet-search/blob/master/public/screencapture-localhost-3000-starwars-planet-seacrh.png?raw=true">
 <p>Esta projeto consiste em gerar uma tabela com alguns dos planetas do universo StarWars, onde o usuário terá opções para filtrar os planetas de acordo com determinadas características, assim como ordenar de maneira ascendente ou descendente.</p>
-<p><strong>Desenvolvido por:</strong> Antônio Campos 
-	<a  href="https://github.com/antonioclc"  target="_blank"  		rel="noreferrer">
-	<img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504911.png?token=exp=1641412040~hmac=e9f62048f4468beb148a53022bc9b160" width="25" height="25" />
+<p><strong>Desenvolvido por:</strong> Antônio Campos -
+	<a  href="https://github.com/antonioclc"  target="_blank"  		rel="noreferrer">GitHub |
 	</a> 
-	<a  href="https://www.linkedin.com/in/ant%C3%B4nio-campos/"  target="_blank"  rel="noreferrer">
-	<img src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256016.png?token=exp=1641412935~hmac=b426345870bfd78edc836e875a3bfd6e" width="25" height="25" />
+	<a  href="https://www.linkedin.com/in/ant%C3%B4nio-campos/"  target="_blank"  rel="noreferrer">LinkedIn
 	</a>
 </p>
 
