@@ -1,24 +1,36 @@
-import logo from './logo.svg';
+import React, { useState } from 'react';
 import './App.css';
+import StarWarsPlanetsSearchContext from './context/AppContext';
+import Header from './components/Header';
+import Filters from './components/Filters';
+import Table from './components/Table';
 
 function App() {
+  const [data, setData] = useState([]);
+  const [dataActual, setDataActual] = useState(false);
+  const [filterByName, setFilterByName] = useState('');
+  const [filterByNumericValues, setFilterByNumericValues] = useState([]);
+  const [sortList, setSortList] = useState(false);
+
+  const contextValue = {
+    data,
+    setData,
+    dataActual,
+    setDataActual,
+    filterByName,
+    setFilterByName,
+    filterByNumericValues,
+    setFilterByNumericValues,
+    sortList,
+    setSortList,
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <StarWarsPlanetsSearchContext.Provider value={ contextValue }>
+      <Header />
+      <Filters />
+      <Table />
+    </StarWarsPlanetsSearchContext.Provider>
   );
 }
 
