@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+<h1>StarWars Planet Search</h1>
+<h2>Apresentação</h2>
+<img src="https://github.com/antonioclc/starwars-planet-search/blob/master/public/screencapture-localhost-3000-starwars-planet-seacrh.png?raw=true">
+<p>Esta projeto consiste em gerar uma tabela com alguns dos planetas do universo StarWars, onde o usuário terá opções para filtrar os planetas de acordo com determinadas características, assim como ordenar de maneira ascendente ou descendente.</p>
+<p><strong>Desenvolvido por:</strong> Antônio Campos 
+	<a  href="https://github.com/antonioclc"  target="_blank"  		rel="noreferrer">
+	<img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504911.png?token=exp=1641412040~hmac=e9f62048f4468beb148a53022bc9b160" width="25" height="25" />
+	</a> 
+	<a  href="https://www.linkedin.com/in/ant%C3%B4nio-campos/"  target="_blank"  rel="noreferrer">
+	<img src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256016.png?token=exp=1641412935~hmac=b426345870bfd78edc836e875a3bfd6e" width="25" height="25" />
+	</a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p><strong>Tecnologias utilizadas:</strong> HTML, CSS, JavaScript, React</p>
+<h2>Guia de instalação</h2>
+<p>Para acessar o projeto, primeiro abra seu terminal e digite os seguinte comandos:</p>
+Etapa 1 - Clonar o repositório na sua máquina
 
-## Available Scripts
+    git clone git@github.com:antonioclc/starwars-planet-search.git
 
-In the project directory, you can run:
+Etapa 2 - Entrar na pasta do projeto clonado
 
-### `npm start`
+    cd starwars-planet-search
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Etapa 3 - Instalar dependências necessárias
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+    npm install
+A partir daqui você já estará com tudo pronto na sua máquina local, para abrir o projeto no navegador, use o comando:
 
-### `npm test`
+    npm start
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h2>Sobre a Trybe</h2>
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQEsqcF3dviA-A/profile-displaybackgroundimage-shrink_200_800/0/1628693865181?e=1644451200&v=beta&t=fcNz6iiGqar2iOL5cMPsFTl3Vt0p9yFf1an7viCg6cU" />
+<p>Este projeto foi desenvolvido durante minha jornada na Trybe, escola na qual recomendo fortemente a qualquer pessoa que queira, com muito esforço e dedicação, iniciar a sua carreira na área de tecnologia.</p>
+<p>"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."</p>
+<p>O programa conta com mais de 1.500 horas de aulas presenciais e/ou online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.</p>
+<a  href="https://www.betrybe.com/"  target="_blank"  rel="noreferrer">👉https://www.betrybe.com/👈</a>
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
