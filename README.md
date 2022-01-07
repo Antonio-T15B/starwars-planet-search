@@ -1,7 +1,7 @@
 <h1>StarWars Planet Search</h1>
 <h2>Apresentação</h2>
 <img src="https://github.com/antonioclc/starwars-planet-search/blob/master/public/screencapture-localhost-3000-starwars-planet-seacrh.png?raw=true">
-<p>Esta projeto consiste em gerar uma tabela com alguns dos planetas do universo StarWars, onde o usuário terá opções para filtrar os planetas de acordo com determinadas características, assim como ordenar de maneira ascendente ou descendente.</p>
+<p>Este projeto consiste em gerar uma tabela com alguns dos planetas do universo StarWars, onde o usuário terá opções para filtrar os planetas de acordo com determinadas características, assim como ordenar de maneira ascendente ou descendente.</p>
 <p><strong>Desenvolvido por:</strong> Antônio Campos -
 	<a  href="https://github.com/antonioclc"  target="_blank"  		rel="noreferrer">GitHub |
 	</a> 
